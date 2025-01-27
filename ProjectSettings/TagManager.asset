@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ConveyorObject
+  - Bubble
+  - Boundary
+  - Rope
+  - Medicine
+  - Fire
+  - People
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ConveyorObject
+  - Bubble
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UIBackground
+    uniqueID: 11766295
+    locked: 0
+  - name: People
+    uniqueID: 2380250567
+    locked: 0
+  - name: UITop
+    uniqueID: 4150038869
+    locked: 0
+  - name: PrefabTop
+    uniqueID: 214736241
+    locked: 0
