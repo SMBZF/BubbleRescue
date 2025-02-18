@@ -1,4 +1,4 @@
-# 🛟 Bubble Rescue - Global Game Jam 2025  
+# Bubble Rescue - Global Game Jam 2025  
 
 **Bubble Rescue** is a **2D firefighting rescue game** created for **Global Game Jam 2025**, themed around **"Bubble"**.  
 
@@ -33,6 +33,3 @@ I was the **sole programmer** for this project, responsible for implementing all
 - **Game Flow & Logic**: Managed **win/loss conditions, scoring system, and level transitions**  
 
 This project was developed as part of a **3-person team**, where I handled all programming aspects, while my teammates worked on **art and game design**.  
-
-## ⭐ Support & Feedback  
-If you enjoyed **Bubble Rescue**, feel free to ⭐ star this repository and leave feedback! 🚒🔥  
