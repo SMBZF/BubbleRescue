@@ -16,8 +16,8 @@ In **Bubble Rescue**, players take on the role of a firefighter using a **bubble
 - Work against time and obstacles to **rescue as many people as possible**!  
 
 ## 🚀 Play Now!  
-🔗 **Itch.io**: [Play on Itch.io](https://yunfan.itch.io/bubble-rescue)  
-🔗 **Global Game Jam Page**: [Check it out on GGJ](https://globalgamejam.org/games/2025/bubble-rescue-0)  
+ **Itch.io**: [Play on Itch.io](https://yunfan.itch.io/bubble-rescue)  
+ **Global Game Jam Page**: [Check it out on GGJ](https://globalgamejam.org/games/2025/bubble-rescue-0)  
 
 ## 🛠 Development  
 - **Engine**: Unity  
